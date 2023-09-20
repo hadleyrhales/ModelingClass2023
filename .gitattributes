@@ -1,1 +1,9 @@
 *.ma filter=lfs diff=lfs merge=lfs -text
+*.sbsar
+*.sbs
+*.spsm
+*.spp
+*.exr
+*.jpg
+*.jpeg
+*.png
